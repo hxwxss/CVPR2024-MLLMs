@@ -7,7 +7,7 @@
 [[paper]](https://arxiv.org/pdf/2312.03700.pdf)
 
 
-# learning for some downstream tasks or enhancing some specific abilities
+# Learning for specific downstream tasks or enhancing certain abilities
 
 
 **Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception**
