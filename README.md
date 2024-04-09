@@ -14,4 +14,7 @@
 
 [[paper]](https://arxiv.org/pdf/2403.02969.pdf)
 
+**VTimeLLM: Empower LLM to Grasp Video Moments**
+
+[[paper]](https://arxiv.org/pdf/2311.18445.pdf)
 
